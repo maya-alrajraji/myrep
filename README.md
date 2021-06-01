@@ -1,3 +1,3 @@
 # myrep
 this is my repository.
-i have dited the redmea file.
+i have edited the ReadMe file.
